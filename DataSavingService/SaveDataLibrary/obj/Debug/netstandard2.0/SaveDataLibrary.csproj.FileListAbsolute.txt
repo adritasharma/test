@@ -1,0 +1,9 @@
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\bin\Debug\netstandard2.0\SaveDataLibrary.deps.json
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\bin\Debug\netstandard2.0\SaveDataLibrary.dll
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\bin\Debug\netstandard2.0\SaveDataLibrary.pdb
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.csprojAssemblyReference.cache
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.AssemblyInfoInputs.cache
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.AssemblyInfo.cs
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.dll
+C:\Users\adrit\source\repos\DataSavingService\SaveDataLibrary\obj\Debug\netstandard2.0\SaveDataLibrary.pdb
